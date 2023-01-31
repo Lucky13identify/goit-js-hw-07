@@ -1,7 +1,7 @@
 import { galleryItems } from "./gallery-items.js";
 // Change code below this line
 
-console.log(galleryItems);
+// console.log(galleryItems);
 
 // Получаем доступ к div gallery, вешаем слушателей, добавляем разметку
 
